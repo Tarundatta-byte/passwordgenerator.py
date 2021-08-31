@@ -8,6 +8,7 @@
 # password generaion mode is on medium.
 ![Screenshot (126)](https://user-images.githubusercontent.com/77502497/131567240-6e24d3b3-e0ca-4e84-a7d3-d3d999d76f39.png)
 # password generaion mode is on strong.
+![Screenshot (122)](https://user-images.githubusercontent.com/77502497/131568206-ffc61ce5-1521-482a-a712-541fc478ae89.png)
 
 
 
